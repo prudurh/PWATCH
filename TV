@@ -1,212 +1,1679 @@
 #EXTM3U
-
-#EXTINF:-1, AMERICA TV
-https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
-#EXTINF:-1, IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-#EXTINF:-1,VISION TV
-https://v8.ciclano.io:1443/visionmusica/_definst_/visionmusica/chunklist_w881602092.m3u8
-#EXTINF:-1,MX: FOX PREMIUM COMEDY
-http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=161.0.157.5/PLTV/88888888/224/3221226800/03.m3u8
-#EXTINF:-1,MOVISTAR DEPORTES
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/4
-#EXTINF:-1,GOL PERU
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/152
-#EXTINF:-1,MX: CANAL CLARO
-http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1,MX: SPACE
-http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1,MX: PORTAL FOXMIX
-http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-#EXTINF:-1,MUSICA: Portal FoxMix HD
-http://tvpremiumhd.club/lista-gratuita/213012/on/iptv.php?id=149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist
-#EXTINF:-1,MX: AZTECA MAS (1+)
-http://tvpremiumhd.club/lista-gratuita/213012/on/lives.php?id=aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8
-#EXTINF:-1,TELE RED
-http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
-#EXTINF:-1,EXTREMA
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1,REAL MADRID CANAL
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
-#EXTINF:-1,RETRO
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1,CARACOL HD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/53
-#EXTINF:-1,COSMOS
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/171
-#EXTINF:-1,UNIVISION TELENOVELAS
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/54
-#EXTINF:-1,ULTRA CLASICO
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/122
-#EXTINF:-1,ULTRA CINE
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/123
-#EXTINF:-1,PASIONES
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/55
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/63
-#EXTINF:-1,HBO FAMILY
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/65
-#EXTINF:-1,H&H DISCOVERI
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/87
-#EXTINF:-1,MOVISTAR ACCION
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/61
-#EXTINF:-1,MOVISTAR SERIES
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/60
-#EXTINF:-1,DISTRITO COMEDIA
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/75
-#EXTINF:-1,CRIMEN INVESTIGACION
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/50
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/83
-#EXTINF:-1,NICKELODEON
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/31
-#EXTINF:-1,NICK 2
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/30
-#EXTINF:-1,CARTOON NETWORK
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/34
-#EXTINF:-1,ESPN 2 HD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/34
-#EXTINF:-1,ESPN 3 HD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/18
-#EXTINF:-1,FOX PREMIUM
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/149
-#EXTINF:-1, hbo2 dual (eng esp) www.m3ugratis.com
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,Gol TV FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/176
-#EXTINF:-1,Directv Sport HD * – Ecuador
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/5
-#EXTINF:-1,ESPN 2 HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/19
-#EXTINF:-1,ESPN 3 HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/18
-#EXTINF:-1,ESPN e HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/17
-#EXTINF:-1,Espn es * – USA
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/2
-#EXTINF:-1,ESPN HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/16
-#EXTINF:-1,FOX es * – USA
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/1
-#EXTINF:-1,Fox Sport HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/15
-#EXTINF:-1,Fox Sports 2 HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/14
-#EXTINF:-1,Fox Sports 3 HD* – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/13
-#EXTINF:-1,NAT GEO KIDS – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/33
-#EXTINF:-1,NBA TV * (24/7 Coverage)
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/11
-#EXTINF:-1,NICK Jr HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/32
-#EXTINF:-1,UFC Network – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/12
-#EXTINF:-1,Win Sport SD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/8
-#EXTINF:-1,Caracol HD 1 * – Colombia
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/53
-#EXTINF:-1,Caracol Internacional – Colombia
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/52
-#EXTINF:-1,Las Estrellas* – Mexico
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/57
-#EXTINF:-1,Telemundo * – Entretenimiento
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/45
-#EXTINF:-1,Univision – Entretenimiento
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/41
-#EXTINF:-1,Univison Telenovelas – Mexico
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/54
-#EXTINF:-1,A&E* HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/79
-#EXTINF:-1,AMC HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/78
-#EXTINF:-1,AXN HD * – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/77
-#EXTINF:-1,Cinemax HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/76
-#EXTINF:-1,Distrito Comedia – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/75
-#EXTINF:-1,Film & Arts – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/73
-#EXTINF:-1,Fox Action * – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/70
-#EXTINF:-1,Fox Premium Movies HD * – Peliculas
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/67
-#EXTINF:-1,Fox Series HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/72
-#EXTINF:-1,HBO 2 HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/66
-#EXTINF:-1,HBO Family* – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/65
-#EXTINF:-1,HBO HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/64
-#EXTINF:-1,Movistar Accion FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/61
-#EXTINF:-1,Movistar Series FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/60
-#EXTINF:-1,Panico HD* – Mexico
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/80
-#EXTINF:-1,Paramount Channel HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/63
-#EXTINF:-1,Pelicula – De Pelicula
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/62
-#EXTINF:-1,TNT Series – Entretenimiento
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/69
-#EXTINF:-1,Animal Planet * FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/84
-#EXTINF:-1,Discovery cilization – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/88
-#EXTINF:-1,Discovery Home & Health HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/87
-#EXTINF:-1,Nat Geo Wild FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/82
-#EXTINF:-1,National Geographic HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/83
-#EXTINF:-1,Azteca uno * – Mexico
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/103
-#EXTINF:-1, la * FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/97
-#EXTINF:-1,ESPN 2 SUR FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/96
-#EXTINF:-1,FM HOT – FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/102
-#EXTINF:-1,Fox sports 1 sur es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/91
-#EXTINF:-1,Golf Channel *FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/95
-#EXTINF:-1, de la Justicia Ilimitada * 24/7
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/90
-#EXTINF:-1,MLB (24/7 Coverage) | HD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/98
-#EXTINF:-1,MTV HD – Latinoamerica
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/105
-#EXTINF:-1,Pelicula – Showtime
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/101
-#EXTINF:-1,Starz Cinema * FHD
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/99
-#EXTINF:-1,Terror HD 24/7 Canales
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/89
-#EXTINF:-1,Bandamax* – Musicales
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/126
-#EXTINF:-1,Barca Tv * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/121
-#EXTINF:-1,Concert Channel* – Musicales
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/124
-#EXTINF:-1,Fight Box Network/Ufc Tv * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/118
-#EXTINF:-1,MacGyver 24/7
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/115
-#EXTINF:-1,Movistar Formula 1 * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/119
-#EXTINF:-1,Ultra Cine * – Ultra Tv
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/123
-#EXTINF:-1,Ultra Clasico * – Ultra Tv
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/122
-#EXTINF:-1,DirecTV Sports * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/155
-#EXTINF:-1,DirecTV Sports 2 * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/156
-#EXTINF:-1,DirecTV Sports Plus * – es
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/157
-#EXTINF:-1,EXTREMADURA TV
-http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/161
+#EXTINF:-1,US - ABC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34834
+#EXTINF:-1,US - FOX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34815
+#EXTINF:-1,US - NBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34765
+#EXTINF:-1,US - CW HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34910
+#EXTINF:-1,USA VIP - FOX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43645
+#EXTINF:-1,USA VIP - NBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43630
+#EXTINF:-1,USA VIP - CW HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43656
+#EXTINF:-1,US - MY 9
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34811
+#EXTINF:-1,USA VIP - HSN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34751
+#EXTINF:-1,US - ION TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34869
+#EXTINF:-1,US - CBN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34827
+#EXTINF:-1,USA VIP - CBN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43664
+#EXTINF:-1,USA VIP - KTVU PLUS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43589
+#EXTINF:-1,US - TELEMUNDO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34801
+#EXTINF:-1,US - UNIMAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34800
+#EXTINF:-1,USA VIP - UNIMAS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43548
+#EXTINF:-1,US - UNIVISION
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34799
+#EXTINF:-1,USA VIP - UNIVISION HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43544
+#EXTINF:-1,USA VIP - GALAVISION HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43569
+#EXTINF:-1,USA VIP - TELEXITOS HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43550
+#EXTINF:-1,US - TBS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34882
+#EXTINF:-1,US - TBN TRINITY BROADCASTING NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34802
+#EXTINF:-1,US - ABC Spark HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34920
+#EXTINF:-1,US - SYFY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34884
+#EXTINF:-1,US - WGN AMERICA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34886
+#EXTINF:-1,US - COZI TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34913
+#EXTINF:-1,US - USA NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34870
+#EXTINF:-1,US - AMC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34914
+#EXTINF:-1,US - FX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34907
+#EXTINF:-1,US - FXM HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34906
+#EXTINF:-1,US - FXX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34904
+#EXTINF:-1,USA VIP - FOX LIFE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43534
+#EXTINF:-1,US - FYI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34903
+#EXTINF:-1,US - WE TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34888
+#EXTINF:-1,USA VIP - CBS NY (WL NY HD)
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43519
+#EXTINF:-1,US - TV ONE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34874
+#EXTINF:-1,US - BRAVO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34912
+#EXTINF:-1,US - ID HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34923
+#EXTINF:-1,US - CRIME & INVESTIGATION HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34849
+#EXTINF:-1,US - A&E HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34921
+#EXTINF:-1,US - E! HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34895
+#EXTINF:-1,US - TLC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34881
+#EXTINF:-1,US - LIFETIME HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34891
+#EXTINF:-1,US - LMN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34890
+#EXTINF:-1,US - BET HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34916
+#EXTINF:-1,US - BET HER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34915
+#EXTINF:-1,USA VIP - PEOPLE TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43511
+#EXTINF:-1,US - SUNDANCE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34803
+#EXTINF:-1,US - FOOD NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34843
+#EXTINF:-1,US - COOKING CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34848
+#EXTINF:-1,USA VIP - EL GOURMET HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43537
+#EXTINF:-1,US - HGTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34896
+#EXTINF:-1,US - SPIKE/PARAMOUNT HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34928
+#EXTINF:-1,US - TRU TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34878
+#EXTINF:-1,US - OXYGEN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34894
+#EXTINF:-1,USA VIP - FUSE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43575
+#EXTINF:-1,USA VIP - POP HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43556
+#EXTINF:-1,USA VIP - REVOLT HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43555
+#EXTINF:-1,US - GSN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34902
+#EXTINF:-1,US - OWN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34807
+#EXTINF:-1,US - FUSION HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34908
+#EXTINF:-1,US - HALL MARK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34900
+#EXTINF:-1,US - HALLMARK MOVIES&MYSTERIES HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34899
+#EXTINF:-1,USA VIP - HALLMARK DRAMA HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43512
+#EXTINF:-1,USA VIP - HALLMARK MOVIE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43566
+#EXTINF:-1,US - TNT HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34879
+#EXTINF:-1,USA VIP - TNT 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43461
+#EXTINF:-1,USA VIP - TNT WEST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43460
+#EXTINF:-1,US - TURNER CLASSIC MOVIES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34877
+#EXTINF:-1,US - TCM
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34873
+#EXTINF:-1,USA VIP - TCM HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43587
+#EXTINF:-1,US - PARAMOUNT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34893
+#EXTINF:-1,USA VIP - MGM HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43621
+#EXTINF:-1,USA VIP - UNIVERSAL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43604
+#EXTINF:-1,USA VIP - CINE SONY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43540
+#EXTINF:-1,USA VIP - IFC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43533
+#EXTINF:-1,US - COMEDY CENTRAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34925
+#EXTINF:-1,USA VIP - COMEDY CENTRAL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43657
+#EXTINF:-1,US - MTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34793
+#EXTINF:-1,US - MTV 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34794
+#EXTINF:-1,USA VIP - MTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43631
+#EXTINF:-1,US - MTVLIVE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34792
+#EXTINF:-1,US - VH1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34889
+#EXTINF:-1,USA VIP - VH1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43601
+#EXTINF:-1,US - HISTORY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34842
+#EXTINF:-1,USA VIP - HISTORY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43565
+#EXTINF:-1,US - CMT HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34911
+#EXTINF:-1,US - H2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34901
+#EXTINF:-1,USA VIP - H2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43639
+#EXTINF:-1,US - VICELAND HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34791
+#EXTINF:-1,USA VIP - VICELAND HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43600
+#EXTINF:-1,US - FREEFORM HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34909
+#EXTINF:-1,USA VIP - FREEFORM HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43641
+#EXTINF:-1,US - AMERICAN HEROES AND ICONS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34852
+#EXTINF:-1,US - AMERICAN HEROES CHANNEL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34851
+#EXTINF:-1,US - DISCOVERY FAMILY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34847
+#EXTINF:-1,US - DISCOVERY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34846
+#EXTINF:-1,US - DISCOVERY SCIENCE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34845
+#EXTINF:-1,US - DISCOVERY VELOCITY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34844
+#EXTINF:-1,US - INVESTIGATION DISCOVERY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34841
+#EXTINF:-1,USA VIP - DISCOVERY FAMILIA SP HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43496
+#EXTINF:-1,USA VIP - DISCOVERY FAMILY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43495
+#EXTINF:-1,USA VIP - DISCOVERY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43654
+#EXTINF:-1,USA VIP - DISCOVERY LIFE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43494
+#EXTINF:-1,USA VIP - DISCOVERY SP HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43493
+#EXTINF:-1,USA VIP - DISCOVERY VELOCITY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43652
+#EXTINF:-1,US - HEROS & ICONS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34898
+#EXTINF:-1,US - DESTINATION AMERICA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34872
+#EXTINF:-1,US - TV LAND
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34876
+#EXTINF:-1,US - TV LAND HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34875
+#EXTINF:-1,USA VIP - TV LAND HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43605
+#EXTINF:-1,US - DIY NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34871
+#EXTINF:-1,USA VIP - DIY NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43585
+#EXTINF:-1,US - NAT GEO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34840
+#EXTINF:-1,US - NAT GEO USA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34839
+#EXTINF:-1,US - NAT GEO WILD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34838
+#EXTINF:-1,US - NAT GEO WILD HD US
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34837
+#EXTINF:-1,USA VIP - NAT GEO EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43561
+#EXTINF:-1,USA VIP - NAT GEO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43483
+#EXTINF:-1,USA VIP - NAT GEO MUNDO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43529
+#EXTINF:-1,USA VIP - NAT GEO WILD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43560
+#EXTINF:-1,US - ANIMAL PLANET HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34850
+#EXTINF:-1,US - THE TRAVEL CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34836
+#EXTINF:-1,USA VIP - OUTDOOR HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43527
+#EXTINF:-1,US - ANTENNA TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34919
+#EXTINF:-1,US - BBC America HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34918
+#EXTINF:-1,##### US - NEWS #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,USA VIP - THE WEATHER CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43609
+#EXTINF:-1,US - BLOOMBERG HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34828
+#EXTINF:-1,US - FOX BUSINESS NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34816
+#EXTINF:-1,USA VIP - FOX BUSINESS NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43646
+#EXTINF:-1,US - MSNBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34812
+#EXTINF:-1,USA VIP - MSNBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43562
+#EXTINF:-1,US - CNBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34823
+#EXTINF:-1,USA VIP - CNBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43539
+#EXTINF:-1,USA VIP - CNN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43588
+#EXTINF:-1,US - CNN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34822
+#EXTINF:-1,US - CNN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34821
+#EXTINF:-1,US - ABC NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34833
+#EXTINF:-1,USA VIP - ABC NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43672
+#EXTINF:-1,US - FOX NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34814
+#EXTINF:-1,USA VIP - FOX NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43644
+#EXTINF:-1,US - CBN NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34826
+#EXTINF:-1,USA VIP - CBN NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43663
+#EXTINF:-1,USA VIP - CBSN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43661
+#EXTINF:-1,USA VIP - C-SPAN 1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43668
+#EXTINF:-1,USA VIP - C-SPAN 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43667
+#EXTINF:-1,USA VIP - C-SPAN 3 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43666
+#EXTINF:-1,##### US - KIDS #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,USA VIP - BABY TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43509
+#EXTINF:-1,US - BOOMERANG HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34867
+#EXTINF:-1,USA VIP - BOOMERANG HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43499
+#EXTINF:-1,US - HBO COMEDY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34950
+#EXTINF:-1,US - CARTOON NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34866
+#EXTINF:-1,USA VIP - CARTOON NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43665
+#EXTINF:-1,US - DISNEY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34865
+#EXTINF:-1,US - DISNEY JR. HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34864
+#EXTINF:-1,US - DISNEY XD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34863
+#EXTINF:-1,US - DISNEY XD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34862
+#EXTINF:-1,USA VIP - DISNEY  HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43651
+#EXTINF:-1,USA VIP - DISNEY CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43492
+#EXTINF:-1,USA VIP - DISNEY JUNIOR HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43491
+#EXTINF:-1,USA VIP - DISNEY XD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43490
+#EXTINF:-1,US - NICK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34861
+#EXTINF:-1,US - NICK JR
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34860
+#EXTINF:-1,US - NICK JR. HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34859
+#EXTINF:-1,US - NICKTOONS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34858
+#EXTINF:-1,USA VIP - Nicktoons HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43623
+#EXTINF:-1,US - PBS KIDS EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34856
+#EXTINF:-1,US - TEEN NICK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34854
+#EXTINF:-1,USA VIP - NICK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43625
+#EXTINF:-1,USA VIP - NICK JR HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43624
+#EXTINF:-1,US - PBS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34857
+#EXTINF:-1,USA VIP - PBS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43622
+#EXTINF:-1,US - UNIVERSAL KIDS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34855
+#EXTINF:-1,USA VIP - UNIVERSAL KIDS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43547
+#EXTINF:-1,US - HBO FAMILY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34949
+#EXTINF:-1,US - HBO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34948
+#EXTINF:-1,US - HBO HD 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34947
+#EXTINF:-1,US - HBO HD 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34946
+#EXTINF:-1,US - HBO SIGNATURE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34944
+#EXTINF:-1,US - HBO Zone
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34943
+#EXTINF:-1,USA VIP - HBO EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43485
+#EXTINF:-1,USA VIP - HBO FAMILY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43637
+#EXTINF:-1,USA VIP - HBO WEST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43636
+#EXTINF:-1,USA VIP - HBO ZONE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43635
+#EXTINF:-1,US - CINEMAX ACTION MAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34942
+#EXTINF:-1,US - CINEMAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34941
+#EXTINF:-1,US - CINEMAX MORE MAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34940
+#EXTINF:-1,US - CINEMAX MOREMAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34939
+#EXTINF:-1,US - CINEMAX OUTER MAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34938
+#EXTINF:-1,US - CINEMAX THRILLERMAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34937
+#EXTINF:-1,USA VIP - CINEMAX ACTION MAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43660
+#EXTINF:-1,USA VIP - CINEMAX EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43659
+#EXTINF:-1,USA VIP - CINEMAX THRILLER MAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43658
+#EXTINF:-1,USA VIP - CINEMAX WEST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43498
+#EXTINF:-1,US - EPIX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34936
+#EXTINF:-1,US - EPIX 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34935
+#EXTINF:-1,US - EPIX HITS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34934
+#EXTINF:-1,USA VIP - EPIX 3 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43489
+#EXTINF:-1,US - SHOWTIME 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34933
+#EXTINF:-1,US - SHOWTIME EXTREME
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34932
+#EXTINF:-1,US - SHOWTIME HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34931
+#EXTINF:-1,USA VIP - SHOWTIME EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43619
+#EXTINF:-1,USA VIP - SHOWTIME SHOWCASE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43553
+#EXTINF:-1,USA VIP - SHOWTIME WEST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43554
+#EXTINF:-1,USA VIP - STARZ EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43616
+#EXTINF:-1,USA VIP - STAR EDGE  HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43615
+#EXTINF:-1,US - STARZ COMEDY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34927
+#EXTINF:-1,US - STARZ KIDS FAMILY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34926
+#EXTINF:-1,USA VIP - STARZ ENCORE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43552
+#EXTINF:-1,USA VIP - Starz HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43614
+#EXTINF:-1,USA VIP - STARZ KIDS & FAMILY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43613
+#EXTINF:-1,PPV : BT BOX OFFICE FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43708
+#EXTINF:-1,##### US LOCAL######
+http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,US - PBS WLIW 21
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34892
+#EXTINF:-1,US - WPIX 11 NY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34885
+#EXTINF:-1,USA VIP - NEW ENGLAND CABLE NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43482
+#EXTINF:-1,USA VIP - WORLD FISGHING NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43518
+#EXTINF:-1,US - NO TV NEW ORLEANS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34809
+#EXTINF:-1,USA VIP - CBS Jacksonville
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43599
+#EXTINF:-1,USA VIP - CBS ( CLEVELAND 19 ) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43497
+#EXTINF:-1,USA VIP - ABC ATLANTA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43459
+#EXTINF:-1,USA VIP - ABC BALTIMORE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43458
+#EXTINF:-1,USA VIP - ABC BOSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43457
+#EXTINF:-1,USA VIP - ABC CALIFORNIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43456
+#EXTINF:-1,USA VIP - ABC CHARLOTTE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43455
+#EXTINF:-1,USA VIP - ABC CHICAGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43454
+#EXTINF:-1,USA VIP - ABC COLUMBUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43674
+#EXTINF:-1,USA VIP - ABC CONNECTICUT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43452
+#EXTINF:-1,USA VIP - ABC DALLAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43451
+#EXTINF:-1,USA VIP - ABC DETROIT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43450
+#EXTINF:-1,USA VIP - ABC DURHAM
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43449
+#EXTINF:-1,USA VIP - ABC FINIX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43448
+#EXTINF:-1,USA VIP - ABC FRESNO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43447
+#EXTINF:-1,USA VIP - ABC FRESNO 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43446
+#EXTINF:-1,USA VIP - ABC HOUSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43445
+#EXTINF:-1,USA VIP - ABC HOUSTON 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43444
+#EXTINF:-1,USA VIP - ABC INDIANA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43443
+#EXTINF:-1,USA VIP - ABC KANSAS CITY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43442
+#EXTINF:-1,USA VIP - ABC LOS ANGELES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43441
+#EXTINF:-1,USA VIP - ABC MIAMI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43440
+#EXTINF:-1,USA VIP - ABC MILWAUKEE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43439
+#EXTINF:-1,USA VIP - ABC MINESSOTA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43438
+#EXTINF:-1,USA VIP - ABC NEWYORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43437
+#EXTINF:-1,USA VIP - ABC OHIO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43436
+#EXTINF:-1,USA VIP - ABC ORLANDO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43435
+#EXTINF:-1,USA VIP - ABC PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43434
+#EXTINF:-1,USA VIP - ABC PITTSBURG
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43673
+#EXTINF:-1,USA VIP - ABC PORTLAND
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43433
+#EXTINF:-1,USA VIP - ABC RALEIGH DURHAM
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43432
+#EXTINF:-1,USA VIP - ABC SACRAMENTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43431
+#EXTINF:-1,USA VIP - ABC SALTLAKE CITY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43430
+#EXTINF:-1,USA VIP - ABC SAN ANTONIO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43429
+#EXTINF:-1,USA VIP - ABC SAN FRANCISCO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43428
+#EXTINF:-1,USA VIP - ABC SAN LUIS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43427
+#EXTINF:-1,USA VIP - ABC SEATLE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43426
+#EXTINF:-1,USA VIP - ABC TAMPA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43425
+#EXTINF:-1,USA VIP - ABC TEXAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43424
+#EXTINF:-1,USA VIP - ABC WASHINGTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43423
+#EXTINF:-1,USA VIP - CBS ARIZONA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43422
+#EXTINF:-1,USA VIP - CBS ATLANTA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43421
+#EXTINF:-1,USA VIP - CBS CALIFORNIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43420
+#EXTINF:-1,USA VIP - CBS CANSAS CITY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43419
+#EXTINF:-1,USA VIP - CBS COLUMBUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43418
+#EXTINF:-1,USA VIP - CBS DETROIT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43417
+#EXTINF:-1,USA VIP - CBS FLORIDA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43416
+#EXTINF:-1,USA VIP - CBS FORT WORTH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43415
+#EXTINF:-1,USA VIP - CBS HARRISBURG
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43414
+#EXTINF:-1,USA VIP - CBS HATFORD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43413
+#EXTINF:-1,USA VIP - CBS LOUISVILLE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43412
+#EXTINF:-1,USA VIP - CBS MIAMI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43411
+#EXTINF:-1,USA VIP - CBS MILWAUKEE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43410
+#EXTINF:-1,USA VIP - CBS PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43409
+#EXTINF:-1,USA VIP - CBS PITTS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43408
+#EXTINF:-1,USA VIP - CBS SEATTLE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43407
+#EXTINF:-1,USA VIP - CBS STOCKTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43406
+#EXTINF:-1,USA VIP - CBS VIRGINIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43405
+#EXTINF:-1,USA VIP - CBS WEST PALM BEACH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43404
+#EXTINF:-1,USA VIP - FOX ALABAMA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43403
+#EXTINF:-1,USA VIP - FOX CHARLOTTE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43402
+#EXTINF:-1,USA VIP - FOX CHICAGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43363
+#EXTINF:-1,USA VIP - FOX CSC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43579
+#EXTINF:-1,USA VIP - FOX DEPORTES HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43577
+#EXTINF:-1,USA VIP - FOX DETROIT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43401
+#EXTINF:-1,USA VIP - FOX HOUSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43400
+#EXTINF:-1,USA VIP - FOX KANSAS CITY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43399
+#EXTINF:-1,USA VIP - FOX LOS ANGELES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43398
+#EXTINF:-1,USA VIP - FOX MIAMI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43397
+#EXTINF:-1,USA VIP - FOX MINNESOTA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43396
+#EXTINF:-1,USA VIP - FOX NEBRASKA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43395
+#EXTINF:-1,USA VIP - FOX NEWYORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43394
+#EXTINF:-1,USA VIP - FOX ORLANDO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43393
+#EXTINF:-1,USA VIP - FOX PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43392
+#EXTINF:-1,USA VIP - FOX PITTS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43391
+#EXTINF:-1,USA VIP - FOX TENNESSEE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43390
+#EXTINF:-1,USA VIP - FOX TEXAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43389
+#EXTINF:-1,USA VIP - MY ARIZONA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43388
+#EXTINF:-1,USA VIP - MY CHARLOTTE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43387
+#EXTINF:-1,USA VIP - MY DALLAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43386
+#EXTINF:-1,USA VIP - MY HOUSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43385
+#EXTINF:-1,USA VIP - MY LOS ANGELES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43384
+#EXTINF:-1,USA VIP - MY MINNEAPOLIS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43383
+#EXTINF:-1,USA VIP - MY NEW JERSEY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43382
+#EXTINF:-1,USA VIP - MY ORLANDO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43380
+#EXTINF:-1,USA VIP - TELEMONDO HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43551
+#EXTINF:-1,USA VIP - TELEMUNDO BOSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43470
+#EXTINF:-1,USA VIP - TELEMUNDO CHICAGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43469
+#EXTINF:-1,USA VIP - TELEMUNDO DALLAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43478
+#EXTINF:-1,USA VIP - TELEMUNDO DENVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43468
+#EXTINF:-1,USA VIP - TELEMUNDO FLORIDA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43473
+#EXTINF:-1,USA VIP - TELEMUNDO HOUSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43467
+#EXTINF:-1,USA VIP - TELEMUNDO LASVEGAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43466
+#EXTINF:-1,USA VIP - TELEMUNDO LOS ANGELES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43472
+#EXTINF:-1,USA VIP - TELEMUNDO PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43471
+#EXTINF:-1,USA VIP - TELEMUNDO PHOENIX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43465
+#EXTINF:-1,USA VIP - TELEMUNDO SANANTONIO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43464
+#EXTINF:-1,USA VIP - TELEMUNDO TEXAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43477
+#EXTINF:-1,USA VIP - TELEMUNDO TUCSON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43463
+#EXTINF:-1,USA VIP - ANIMAL PLANET HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43675
+#EXTINF:-1,USA VIP - BBC AMERICA HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43542
+#EXTINF:-1,USA VIP - BEN FC TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43541
+#EXTINF:-1,USA VIP - OSN CRICKET FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43597
+#EXTINF:-1,US - MOREMAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34883
+#EXTINF:-1,US - ABC NY FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34832
+#EXTINF:-1,US VIP - AFN PRIME ATLANTIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34831
+#EXTINF:-1,US VIP - AFN PRIME PACIFIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34830
+#EXTINF:-1,US VIP - BIG TEN NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34829
+#EXTINF:-1,US - CBS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34825
+#EXTINF:-1,US - CBS NY FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34824
+#EXTINF:-1,US - FOX 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34818
+#EXTINF:-1,US - FOX 5 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34817
+#EXTINF:-1,USA VIP - MLB NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34813
+#EXTINF:-1,US - VELOCITY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34798
+#EXTINF:-1,USA VIP -  NFL NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34763
+#EXTINF:-1,USA VIP -  NFL NOW HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34762
+#EXTINF:-1,USA VIP -  NFL REDZONE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34761
+#EXTINF:-1,USA VIP - AHC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43500
+#EXTINF:-1,USA VIP - DESTINATION AMERICA HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43655
+#EXTINF:-1,USA VIP - HLN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43586
+#EXTINF:-1,USA VIP - MAS CHIC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43532
+#EXTINF:-1,USA VIP - MLB NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43632
+#EXTINF:-1,USA VIP - OUTSIDE TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43526
+#EXTINF:-1,USA VIP - NFL NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43628
+#EXTINF:-1,USA VIP - NFL NOW HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43627
+#EXTINF:-1,USA VIP - RTP INTERNATIONAL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43525
+#EXTINF:-1,USA VIP - DISCOVERY SCIENCE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43653
+#EXTINF:-1,USA VIP - SONY MOVIES HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43510
+#EXTINF:-1,USA VIP - TRAVEL CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43607
+#EXTINF:-1,USA VIP - UNIVERSO HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43546
+#EXTINF:-1,USA VIP - TELEMUNDO NEWYORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43475
+#EXTINF:-1,USA VIP - VSIN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43583
+#EXTINF:-1,USA VIP - WGN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43598
+#EXTINF:-1,##### US - SPORT #####
+http://185.132.176.71:80/demo/demo/mpegts
+#EXTINF:-1,USA VIP - AFN SPORTS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34789
+#EXTINF:-1,USA VIP - AFN SPORTS 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34788
+#EXTINF:-1,USA VIP -  BEIN SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34787
+#EXTINF:-1,USA VIP - BEIN USA HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34786
+#EXTINF:-1,USA VIP - BEIN 1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43593
+#EXTINF:-1,USA VIP - BEIN 10 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43507
+#EXTINF:-1,USA VIP - BEIN 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43592
+#EXTINF:-1,USA VIP - BEIN 3 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43591
+#EXTINF:-1,USA VIP - BEIN 4 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43590
+#EXTINF:-1,USA VIP - BEIN 5 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43506
+#EXTINF:-1,USA VIP - BEIN 6 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43505
+#EXTINF:-1,USA VIP - BEIN 7 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43504
+#EXTINF:-1,USA VIP - BEIN 8 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43503
+#EXTINF:-1,USA VIP - BEIN 9 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43502
+#EXTINF:-1,USA VIP - BEIN SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43671
+#EXTINF:-1,USA VIP -  CBS SPORTS NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34785
+#EXTINF:-1,USA VIP - CBS SPORTS NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43662
+#EXTINF:-1,USA VIP - ESPN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34784
+#EXTINF:-1,USA VIP - ESPN 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34783
+#EXTINF:-1,USA VIP- ESPN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34782
+#EXTINF:-1,USA VIP -  ESPN 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34781
+#EXTINF:-1,USA VIP - ESPN U
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34780
+#EXTINF:-1,USA VIP -  ESPN U HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34779
+#EXTINF:-1,US VIP - ESPN NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34820
+#EXTINF:-1,USA VIP - ESPNDEPORTES HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34819
+#EXTINF:-1,USA VIP - ESPN 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43647
+#EXTINF:-1,USA VIP - ESPN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43650
+#EXTINF:-1,USA VIP - ESPN NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43649
+#EXTINF:-1,USA VIP - ESPN U HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43648
+#EXTINF:-1,USA VIP - FOX COLLEGE ATLANTIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34777
+#EXTINF:-1,USA VIP - FOX COLLEGE CENTRAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34776
+#EXTINF:-1,USA VIP - FOX COLLEGE PACIFIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34775
+#EXTINF:-1,USA VIP - FOX COLLEGE SPORTS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34774
+#EXTINF:-1,USA VIP - FOX SPORTS 1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34771
+#EXTINF:-1,USA VIP - FOX SPORTS 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34770
+#EXTINF:-1,USA VIP -  FOX SPORTS FLORIDA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34769
+#EXTINF:-1,USA VIP -  FOX SPORTS SUN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34768
+#EXTINF:-1,USA VIP - FOX SPORTS ARIZONA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43362
+#EXTINF:-1,USA VIP - FOX SPORTS DETROIT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43361
+#EXTINF:-1,USA VIP - FOX SPORTS FLORIDA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43360
+#EXTINF:-1,USA VIP - FOX SPORTS HD 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43643
+#EXTINF:-1,USA VIP - FOX SPORTS HD 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43642
+#EXTINF:-1,USA VIP - FOX SPORTS MIDWEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43359
+#EXTINF:-1,USA VIP - FOX SPORTS NORTH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43358
+#EXTINF:-1,USA VIP - FOX SPORTS OHIO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43357
+#EXTINF:-1,USA VIP - FOX SPORTS OHIOPLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43356
+#EXTINF:-1,USA VIP - FOX SPORTS PRIMETICKET
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43355
+#EXTINF:-1,USA VIP - FOX SPORTS SANDIEGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43354
+#EXTINF:-1,USA VIP - FOX SPORTS SOCCER PLUS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43576
+#EXTINF:-1,USA VIP - FOX SPORTS SOUTH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43353
+#EXTINF:-1,USA VIP - FOX SPORTS SOUTH EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43352
+#EXTINF:-1,USA VIP - FOX SPORTS SOUTH WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43351
+#EXTINF:-1,USA VIP - FOX SPORTS SOUTH WEST PLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43350
+#EXTINF:-1,USA VIP - FOX SPORTS SUN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43349
+#EXTINF:-1,USA VIP - FOX SPORTS TENNESSE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43348
+#EXTINF:-1,USA VIP - FOX SPORTS WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43347
+#EXTINF:-1,USA VIP - FOX SPORTS WISCONSIN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43346
+#EXTINF:-1,USA VIP - FOX SOCCER PLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34773
+#EXTINF:-1,USA VIP - FOX SOCCER PLUS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34772
+#EXTINF:-1,USA VIP - NBC GOLF
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34766
+#EXTINF:-1,USA VIP -  NBA TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34754
+#EXTINF:-1,USA VIP - NBA TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43595
+#EXTINF:-1,USA VIP -  NHL NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34753
+#EXTINF:-1,USA VIP -  NHL NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34752
+#EXTINF:-1,USA VIP - NHL NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43626
+#EXTINF:-1,USA VIP -  SPORTSNET NY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34760
+#EXTINF:-1,USA VIP - SPORTSNET LA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34759
+#EXTINF:-1,USA VIP -  TENNIS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34758
+#EXTINF:-1,USA VIP - TENNIS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43610
+#EXTINF:-1,USA VIP -  ELEVEN SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34757
+#EXTINF:-1,USA VIP - ELEVEN SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43582
+#EXTINF:-1,USA VIP -  GOLF HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34756
+#EXTINF:-1,USA VIP - GOLF HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43640
+#EXTINF:-1,USA VIP -  BTN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34755
+#EXTINF:-1,USA VIP - BTN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43669
+#EXTINF:-1,USA VIP -  FIGHT NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34778
+#EXTINF:-1,USA VIP - FIGHT NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43536
+#EXTINF:-1,USA VIP - UFC FIGHT PASS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34750
+#EXTINF:-1,USA VIP - YES NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34796
+#EXTINF:-1,USA VIP - MAVTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43531
+#EXTINF:-1,USA VIP - MOTOR TREND HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43530
+#EXTINF:-1,USA VIP - LONGHORN NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43484
+#EXTINF:-1,USA VIP - TYC  SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43549
+#EXTINF:-1,USA - FNTSY SPORTS NETWORK FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43535
+#EXTINF:-1,USA VIP - SPORTS ILLUSTRATED (SITV ) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43524
+#EXTINF:-1,USA VIP - SPORTS ILLUSTRATED HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43479
+#EXTINF:-1,USA VIP - SPORTS MAN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43523
+#EXTINF:-1,USA VIP - SEC NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34805
+#EXTINF:-1,USA VIP -  SEC NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34804
+#EXTINF:-1,USA VIP - SEC NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43620
+#EXTINF:-1,USA VIP - SN CENTRAL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43618
+#EXTINF:-1,USA VIP -  WWE NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34797
+#EXTINF:-1,USA VIP - WWE Network HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43596
+#EXTINF:-1,USA VIP - WILLOW CRICKET HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43501
+#EXTINF:-1,USA VIP - GINX ESPORTS TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43486
+#EXTINF:-1,USA VIP - NFL REDZONE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43706
+#EXTINF:-1,USA VIP - UNIVISION DEP HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43603
+#EXTINF:-1,USA VIP - UNIVISION DEPROTES HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43545
+#EXTINF:-1,USA VIP - GOL TV EN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43568
+#EXTINF:-1,USA VIP - GOL TV HD SP
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43567
+#EXTINF:-1,USA VIP - CSN BOSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43370
+#EXTINF:-1,USA VIP - CSN CHICAGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43369
+#EXTINF:-1,USA VIP - CSN CHICAGO PLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43368
+#EXTINF:-1,USA VIP - CSN NORTHWEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43367
+#EXTINF:-1,USA VIP - CSN PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43366
+#EXTINF:-1,USA VIP - CSN WASHINGTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43365
+#EXTINF:-1,USA VIP - CSN WASHINGTON PLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43364
+#EXTINF:-1,USA VIP - CSN BAYAREA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43371
+#EXTINF:-1,USA VIP - FOX CSA HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43580
+#EXTINF:-1,USA VIP - FOX CSP HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43578
+#EXTINF:-1,USA VIP - NBC SPORTS CHICAGO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43559
+#EXTINF:-1,USA VIP - NBC SPORTS PLUS CHICAGO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43528
+#EXTINF:-1,USA VIP - CHEDDAR SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43508
+#EXTINF:-1,USA VIP - NESN 1 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43341
+#EXTINF:-1,USA VIP - NESN 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43340
+#EXTINF:-1,USA VIP - NESN 3 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43339
+#EXTINF:-1,USA VIP - NESN 4 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43338
+#EXTINF:-1,USA VIP - NBC SPORTS NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34767
+#EXTINF:-1,USA VIP -  NBCSN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34764
+#EXTINF:-1,US - NBC 4 NY FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/34810
+#EXTINF:-1,USA VIP - NBC CHICAGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43379
+#EXTINF:-1,USA VIP - NBC CONNECTICUT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43378
+#EXTINF:-1,USA VIP - NBC LOS ANGELES
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43377
+#EXTINF:-1,USA VIP - NBC MIAMI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43376
+#EXTINF:-1,USA VIP - NBC PHILADELPHIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43375
+#EXTINF:-1,USA VIP - NBC SAN DIEGO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43374
+#EXTINF:-1,USA VIP - NBC TEXAS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43373
+#EXTINF:-1,USA VIP - NBC WASHINGTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43372
+#EXTINF:-1,USA VIP - NBC 2 (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/56447
+#EXTINF:-1,USA VIP - ABC 13 (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63885
+#EXTINF:-1,USA VIP - CBS 11 (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63886
+#EXTINF:-1,USA VIP - FOX 26 (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63887
+#EXTINF:-1,USA VIP - MY20 (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63889
+#EXTINF:-1,USA VIP - Telemundo (Houston) HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/63888
+#EXTINF:-1,USA VIP - NBCSN BAY AREA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43345
+#EXTINF:-1,USA VIP - NBCSN BOSTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43344
+#EXTINF:-1,USA VIP - NBCSN CALIFORNIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43343
+#EXTINF:-1,USA VIP - NBCSN CALIFORNIA PLUS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43342
+#EXTINF:-1,USA VIP - NBCSN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43629
+#EXTINF:-1,USA VIP - STADIUM HD 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43517
+#EXTINF:-1,USA VIP - STADIUM HD 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43516
+#EXTINF:-1,USA VIP - STADIUM HD 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43515
+#EXTINF:-1,USA VIP - STADIUM HD ORIGINAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43514
+#EXTINF:-1,USA VIP - SPFL 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43760
+#EXTINF:-1,USA VIP - SPFL 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43759
+#EXTINF:-1,USA VIP - SPFL 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43758
+#EXTINF:-1,USA VIP - SPFL 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43757
+#EXTINF:-1,USA VIP - NHL ARENA 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43756
+#EXTINF:-1,USA VIP - NHL ARENA 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43751
+#EXTINF:-1,USA VIP - NHL ARENA 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43750
+#EXTINF:-1,USA VIP - NHL ARENA 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43749
+#EXTINF:-1,USA VIP - NHL ARENA 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43748
+#EXTINF:-1,USA VIP - NHL ARENA 6
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43747
+#EXTINF:-1,USA VIP - NHL ARENA 7
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43746
+#EXTINF:-1,USA VIP - NHL ARENA 8
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43745
+#EXTINF:-1,USA VIP - NHL ARENA 9
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43744
+#EXTINF:-1,USA VIP - NHL ARENA 10
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43755
+#EXTINF:-1,USA VIP - NHL ARENA 11
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43754
+#EXTINF:-1,USA VIP - NHL ARENA 12
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43753
+#EXTINF:-1,USA VIP - NHL ARENA 13
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43752
+#EXTINF:-1,USA VIP - NHL ARENA 14
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43743
+#EXTINF:-1,USA VIP - NHL ARENA 15
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43742
+#EXTINF:-1,USA VIP - MLB ARENA 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43725
+#EXTINF:-1,USA VIP - MLB ARENA 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43716
+#EXTINF:-1,USA VIP - MLB ARENA 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43715
+#EXTINF:-1,USA VIP - MLB ARENA 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43714
+#EXTINF:-1,USA VIP - MLB ARENA 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43713
+#EXTINF:-1,USA VIP - MLB ARENA 6
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43712
+#EXTINF:-1,USA VIP - MLB ARENA 7
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43711
+#EXTINF:-1,USA VIP - MLB ARENA 8
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43710
+#EXTINF:-1,USA VIP - MLB ARENA 9
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43709
+#EXTINF:-1,USA VIP - MLB ARENA 10
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43724
+#EXTINF:-1,USA VIP - MLB ARENA 11
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43723
+#EXTINF:-1,USA VIP - MLB ARENA 12
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43722
+#EXTINF:-1,USA VIP - MLB ARENA 13
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43721
+#EXTINF:-1,USA VIP - MLB ARENA 14
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43720
+#EXTINF:-1,USA VIP - MLB ARENA 15
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43719
+#EXTINF:-1,USA VIP - MLB ARENA 16
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43718
+#EXTINF:-1,USA VIP - MLB ARENA 17
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43717
+#EXTINF:-1,USA VIP - NBALP 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43705
+#EXTINF:-1,USA VIP - NBALP 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43704
+#EXTINF:-1,USA VIP - NBALP 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43703
+#EXTINF:-1,USA VIP - NBALP 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43702
+#EXTINF:-1,USA VIP - NBALP 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43701
+#EXTINF:-1,USA VIP - NBALP 6
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43700
+#EXTINF:-1,USA VIP - NBALP 7
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43699
+#EXTINF:-1,USA VIP - NBALP 8
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43698
+#EXTINF:-1,USA VIP - NBALP 9
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43697
+#EXTINF:-1,USA VIP - NBALP 10
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43696
+#EXTINF:-1,USA VIP - NBALP 11
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43695
+#EXTINF:-1,USA VIP - NBALP 12
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43694
+#EXTINF:-1,USA VIP - NBALP 13
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43693
+#EXTINF:-1,USA VIP - NBALP 14
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43692
+#EXTINF:-1,USA VIP - NBALP 15
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43691
+#EXTINF:-1,USA VIP - NBALP 16
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43690
+#EXTINF:-1,USA VIP - NBALP 17
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43689
+#EXTINF:-1,USA VIP - NBALP 18
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43688
+#EXTINF:-1,USA VIP - NBALP 19
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43687
+#EXTINF:-1,USA VIP - NBALP 20
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43686
+#EXTINF:-1,USA VIP - NBALP 21
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43685
+#EXTINF:-1,USA VIP - NBALP 22
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43684
+#EXTINF:-1,USA VIP - NBALP 23
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43683
+#EXTINF:-1,USA VIP - NBALP 24
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43682
+#EXTINF:-1,USA VIP - NBALP 25
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43681
+#EXTINF:-1,USA VIP - NBALP 26
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43680
+#EXTINF:-1,USA VIP - NBALP 27
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43679
+#EXTINF:-1,USA VIP - NBALP 28
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43678
+#EXTINF:-1,USA VIP - NBALP 29
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43677
+#EXTINF:-1,USA VIP - NBALP 30
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43676
+#EXTINF:-1,USA VIP - NFL ARENA 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43740
+#EXTINF:-1,USA VIP - NFL ARENA 10
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43739
+#EXTINF:-1,USA VIP - NFL ARENA 11
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43738
+#EXTINF:-1,USA VIP - NFL ARENA 12
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43737
+#EXTINF:-1,USA VIP - NFL ARENA 13
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43736
+#EXTINF:-1,USA VIP - NFL ARENA 14
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43735
+#EXTINF:-1,USA VIP - NFL ARENA 15
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43734
+#EXTINF:-1,USA VIP - NFL ARENA 16
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43733
+#EXTINF:-1,USA VIP - NFL ARENA 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43741
+#EXTINF:-1,USA VIP - NFL ARENA 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43732
+#EXTINF:-1,USA VIP - NFL ARENA 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43731
+#EXTINF:-1,USA VIP - NFL ARENA 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43730
+#EXTINF:-1,USA VIP - NFL ARENA 6
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43729
+#EXTINF:-1,USA VIP - NFL ARENA 7
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43728
+#EXTINF:-1,USA VIP - NFL ARENA 8
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43727
+#EXTINF:-1,USA VIP - NFL ARENA 9
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43726
+#EXTINF:-1,USA VIP - PPV SD : UFC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43707
+#EXTINF:-1,USA VIP - UFC FIGHT PASS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43336
+#EXTINF:-1,##### |CA| CANADA #####
+http://185.79.114.12:25461/greetings.mp4
+#EXTINF:-1,CA-VIP A&E HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42910
+#EXTINF:-1,CA-VIP ABC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42974
+#EXTINF:-1,CA-VIP ABC SPARK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42973
+#EXTINF:-1,CA-VIP AMC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42972
+#EXTINF:-1,CA-VIP BEIN SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42909
+#EXTINF:-1,CA-VIP BEIN SPORTS SPANISH HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42908
+#EXTINF:-1,CA-VIP BNN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42971
+#EXTINF:-1,CA-VIP BRAVO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42970
+#EXTINF:-1,CA-VIP BTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42907
+#EXTINF:-1,CA-VIP CBC ATLANTIC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42969
+#EXTINF:-1,CA-VIP CBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42968
+#EXTINF:-1,CA-VIP CBC NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42967
+#EXTINF:-1,CA-VIP CBS FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42966
+#EXTINF:-1,CA-VIP CHCH HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42965
+#EXTINF:-1,CA-VIP CITY FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42964
+#EXTINF:-1,CA-VIP CNN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42963
+#EXTINF:-1,CA-VIP COMEDY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42962
+#EXTINF:-1,CA-VIP CP 24 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42961
+#EXTINF:-1,CA-VIP CPAC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42960
+#EXTINF:-1,CA-VIP CREATE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42959
+#EXTINF:-1,CA-VIP CTV ATLANTIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42958
+#EXTINF:-1,CA-VIP CTV FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42957
+#EXTINF:-1,CA-VIP CTV NEWS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42956
+#EXTINF:-1,CA-VIP CW HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42955
+#EXTINF:-1,CA-VIP DISNEY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42954
+#EXTINF:-1,CA-VIP DISNEY JR HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42953
+#EXTINF:-1,CA-VIP DISNEY XD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42952
+#EXTINF:-1,CA-VIP E! HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42950
+#EXTINF:-1,CA-VIP FANTASY SPORTS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42906
+#EXTINF:-1,CA-VIP FIGHT NETWORK HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42905
+#EXTINF:-1,CA-VIP FOOD NETWORK  HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42949
+#EXTINF:-1,CA-VIP FOX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42948
+#EXTINF:-1,CA-VIP FX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42947
+#EXTINF:-1,CA-VIP FXX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42946
+#EXTINF:-1,CA-VIP GLOBAL BRITSH COLOMBIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42898
+#EXTINF:-1,CA-VIP GLOBAL FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42945
+#EXTINF:-1,CA-VIP GLOBAL HALIFAX HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42904
+#EXTINF:-1,CA-VIP GLOBAL TORONTO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42897
+#EXTINF:-1,CA-VIP GSN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42944
+#EXTINF:-1,CA-VIP HBO 2 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42943
+#EXTINF:-1,CA-VIP HBO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42942
+#EXTINF:-1,CA-VIP HGTV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42941
+#EXTINF:-1,CA-VIP HISTORY HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42940
+#EXTINF:-1,CA-VIP HLN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42939
+#EXTINF:-1,CA-VIP K26CV FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42903
+#EXTINF:-1,CA-VIP LIFETIME HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42938
+#EXTINF:-1,CA-VIP ME TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42937
+#EXTINF:-1,CA-VIP MHZ WORLDVIEW
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42902
+#EXTINF:-1,CA-VIP ML PBS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42901
+#EXTINF:-1,CA-VIP MOVIES HD (Stopped)
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42936
+#EXTINF:-1,CA-VIP MSNBC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42935
+#EXTINF:-1,CA-VIP NAT GEO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42934
+#EXTINF:-1,CA-VIP NAT GEO WILD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42933
+#EXTINF:-1,CA-VIP NBA TV HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42900
+#EXTINF:-1,CA-VIP NBC FHD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42932
+#EXTINF:-1,CA-VIP OLN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42975
+#EXTINF:-1,CA-VIP OWN HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42931
+#EXTINF:-1,CA-VIP PBS HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42930
+#EXTINF:-1,CA-VIP PBS KIDS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42899
+#EXTINF:-1,CA-VIP PEACH TREE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42929
+#EXTINF:-1,CA-VIP SHOWCASE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42928
+#EXTINF:-1,CA-VIP SLICE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42927
+#EXTINF:-1,CA-VIP SPACE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42926
+#EXTINF:-1,CA-VIP SPORTSNET 360 HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42925
+#EXTINF:-1,CA-VIP SPORTSNET EAST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42924
+#EXTINF:-1,CA-VIP SPORTSNET ONE HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42923
+#EXTINF:-1,CA-VIP SPORTSNET ONTARIO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42922
+#EXTINF:-1,CA-VIP SPORTSNET PACIFIC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42921
+#EXTINF:-1,CA-VIP SPORTSNET WEST HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42920
+#EXTINF:-1,CA-VIP SPORTSNET WORLD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42919
+#EXTINF:-1,CA-VIP TLC HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42918
+#EXTINF:-1,CA-VIP TSN HD 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42917
+#EXTINF:-1,CA-VIP TSN HD 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42916
+#EXTINF:-1,CA-VIP TSN HD 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42915
+#EXTINF:-1,CA-VIP TSN HD 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42914
+#EXTINF:-1,CA-VIP TSN HD 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42913
+#EXTINF:-1,CA-VIP WEATHER CHANNEL HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42912
+#EXTINF:-1,CA-VIP WORLD HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/42911
+#EXTINF:-1,CA-A&E
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30545
+#EXTINF:-1,CA-ABC EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30544
+#EXTINF:-1,CA-ABC SPARK CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30543
+#EXTINF:-1,CA-ABC WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30542
+#EXTINF:-1,CA-ACTION
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30541
+#EXTINF:-1,CA-AHC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30539
+#EXTINF:-1,CA-AMC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30538
+#EXTINF:-1,CA-ANIMAL PLANET
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30537
+#EXTINF:-1,CA-APTN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30536
+#EXTINF:-1,CA-ASSEMBLÉE NATIONALE QUÉBEC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30534
+#EXTINF:-1,CA-BBC CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30533
+#EXTINF:-1,CA-BBC WORLD NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30531
+#EXTINF:-1,CA-BET
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30530
+#EXTINF:-1,CA-BNN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30529
+#EXTINF:-1,CA-BOOK TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30528
+#EXTINF:-1,CA-BRAVO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30527
+#EXTINF:-1,CA-CARTOON NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30524
+#EXTINF:-1,CA-CBC NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30521
+#EXTINF:-1,CA-CBC NOVA SCOTIA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30520
+#EXTINF:-1,CA-CBC OTTAWA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30519
+#EXTINF:-1,CA-CBC TORONTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30518
+#EXTINF:-1,CA-CBC VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30517
+#EXTINF:-1,CA-CBS EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30516
+#EXTINF:-1,CA-CBS WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30515
+#EXTINF:-1,CA-CHCH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30514
+#EXTINF:-1,CA-CITY MONTREAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30512
+#EXTINF:-1,CA-CITY TORONTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30510
+#EXTINF:-1,CA-CITY VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30509
+#EXTINF:-1,CA-CMT CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30507
+#EXTINF:-1,CA-CNBC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30506
+#EXTINF:-1,CA-CNN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30505
+#EXTINF:-1,CA-CNN INTERNATIONAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30504
+#EXTINF:-1,CA-COMEDY EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30503
+#EXTINF:-1,CA-COMEDY GOLD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30502
+#EXTINF:-1,CA-COOKING CHANNEL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30500
+#EXTINF:-1,CA-COSMO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30499
+#EXTINF:-1,CA-COTTAGE LIFE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30498
+#EXTINF:-1,CA-CP24
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30497
+#EXTINF:-1,CA-CPAC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30496
+#EXTINF:-1,CA-CPAC FRENCH
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30495
+#EXTINF:-1,CA-CRIME   INVEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30494
+#EXTINF:-1,CA-CTV 2 VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30492
+#EXTINF:-1,CA-CTV HALIFAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30491
+#EXTINF:-1,CA-CTV NEWS NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30489
+#EXTINF:-1,CA-CTV OTTAWA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30488
+#EXTINF:-1,CA-CTV TORONTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30487
+#EXTINF:-1,CA-CTV VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30486
+#EXTINF:-1,CA-CTV2 OTTAWA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30485
+#EXTINF:-1,CA-CW 11
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30484
+#EXTINF:-1,CA-DAYSTAR TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30483
+#EXTINF:-1,CA-DEJAVIEW
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30482
+#EXTINF:-1,CA-DISCOVERY CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30481
+#EXTINF:-1,CA-DISCOVERY SCIENCE CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30480
+#EXTINF:-1,CA-DISNEY CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30479
+#EXTINF:-1,CA-DISNEY JR
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30477
+#EXTINF:-1,CA-DIY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30476
+#EXTINF:-1,CA-DOCUMENTARY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30475
+#EXTINF:-1,CA-DTOUR
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30474
+#EXTINF:-1,CA-E! CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30473
+#EXTINF:-1,CA-ENCORE 1 EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30472
+#EXTINF:-1,CA-ENCORE 2 EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30471
+#EXTINF:-1,CA-EVASION
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30470
+#EXTINF:-1,CA-FAMILY CHRGD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30469
+#EXTINF:-1,CA-FAMILY EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30468
+#EXTINF:-1,CA-FAMILY JR
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30467
+#EXTINF:-1,CA-FAMILY WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30466
+#EXTINF:-1,CA-FIGHT NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30465
+#EXTINF:-1,CA-FOOD NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30464
+#EXTINF:-1,CA-FOX EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30463
+#EXTINF:-1,CA-FOX NEWS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30462
+#EXTINF:-1,CA-FOX WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30461
+#EXTINF:-1,CA-FRISSON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30460
+#EXTINF:-1,CA-FTV CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30459
+#EXTINF:-1,CA-FYI
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30458
+#EXTINF:-1,CA-Game TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30457
+#EXTINF:-1,CA-GINX ESPORTS TV CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30456
+#EXTINF:-1,CA-GLOBAL HALIFAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30455
+#EXTINF:-1,CA-GLOBAL TORONTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30454
+#EXTINF:-1,CA-GLOBAL VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30453
+#EXTINF:-1,CA-GOLF
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30452
+#EXTINF:-1,CA-GSN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30451
+#EXTINF:-1,CA-GUSTO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30450
+#EXTINF:-1,CA-H2 CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30449
+#EXTINF:-1,CA-HBO 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30448
+#EXTINF:-1,CA-HBO 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30447
+#EXTINF:-1,CA-HGTV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30446
+#EXTINF:-1,CA-HISTORY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30444
+#EXTINF:-1,CA-HLN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30443
+#EXTINF:-1,CA-HOPE TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30442
+#EXTINF:-1,CA-ICI VANCOUVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30440
+#EXTINF:-1,CA-ID CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30439
+#EXTINF:-1,CA-IFC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30438
+#EXTINF:-1,CA-KNOWLEDGE KIDS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30436
+#EXTINF:-1,CA-KTLA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30435
+#EXTINF:-1,CA-LIFETIME
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30432
+#EXTINF:-1,CA-MAKEFUL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30431
+#EXTINF:-1,CA-MAVTV CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30430
+#EXTINF:-1,CA-MIRACLE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30427
+#EXTINF:-1,CA-MLB NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30426
+#EXTINF:-1,CA-MTIME
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30424
+#EXTINF:-1,CA-MTV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30423
+#EXTINF:-1,CA-MTV 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30422
+#EXTINF:-1,CA-MUCH MUSIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30421
+#EXTINF:-1,CA-NAT GEO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30419
+#EXTINF:-1,CA-NBA TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30418
+#EXTINF:-1,CA-NBC EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30417
+#EXTINF:-1,CA-NBC WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30416
+#EXTINF:-1,CA-NFL NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30415
+#EXTINF:-1,CA-NICK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30414
+#EXTINF:-1,CA-NTV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30413
+#EXTINF:-1,CA-OLN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30412
+#EXTINF:-1,CA-OMNI 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30411
+#EXTINF:-1,CA-OMNI 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30410
+#EXTINF:-1,CA-ONE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30407
+#EXTINF:-1,CA-OUTTV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30406
+#EXTINF:-1,CA-OWN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30405
+#EXTINF:-1,CA-PBS EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30404
+#EXTINF:-1,CA-PEACH TREE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30402
+#EXTINF:-1,CA-PRISE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30401
+#EXTINF:-1,CA-RT AMERICA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30396
+#EXTINF:-1,CA-SHOPPING
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30394
+#EXTINF:-1,CA-SHOWCASE EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30393
+#EXTINF:-1,CA-SILVER SCREEN CLASSICS
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30392
+#EXTINF:-1,CA-SLICE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30391
+#EXTINF:-1,CA-SMITHSONIAN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30390
+#EXTINF:-1,CA-SPACE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30389
+#EXTINF:-1,CA-SPIKE TV / PARAMOUNT CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30388
+#EXTINF:-1,CA-SPORTSNET 360
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30387
+#EXTINF:-1,CA-SPORTSNET EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30386
+#EXTINF:-1,CA-SPORTSNET ONE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30385
+#EXTINF:-1,CA-SPORTSNET ONTARIO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30384
+#EXTINF:-1,CA-SPORTSNET PACIFIC
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30383
+#EXTINF:-1,CA-SPORTSNET WEST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30382
+#EXTINF:-1,CA-SPORTSNET WORLD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30381
+#EXTINF:-1,CA-SUPER CHANNEL FUSE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30380
+#EXTINF:-1,CA-SUPER CHANNEL HEART & HOME
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30379
+#EXTINF:-1,CA-SUPER CHANNEL VAULT
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30378
+#EXTINF:-1,CA-TCM
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30373
+#EXTINF:-1,CA-TELE LATINO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30372
+#EXTINF:-1,CA-TELE TOON EAST
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30370
+#EXTINF:-1,CA-TELEMAGINO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30367
+#EXTINF:-1,CA-TFO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30366
+#EXTINF:-1,CA-THE WEATHER NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30365
+#EXTINF:-1,CA-TLC CANADA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30364
+#EXTINF:-1,CA-TMN 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30363
+#EXTINF:-1,CA-TMN 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30362
+#EXTINF:-1,CA-TMN 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30361
+#EXTINF:-1,CA-TMN 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30360
+#EXTINF:-1,CA-TREEHOUSE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30358
+#EXTINF:-1,CA-TSN 1
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30357
+#EXTINF:-1,CA-TSN 2
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30356
+#EXTINF:-1,CA-TSN 3
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30355
+#EXTINF:-1,CA-TSN 4
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30354
+#EXTINF:-1,CA-TSN 5
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30353
+#EXTINF:-1,CA-TVA GATINEAU
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30351
+#EXTINF:-1,CA-TVO
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30349
+#EXTINF:-1,CA-UNIS TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30348
+#EXTINF:-1,CA-VISION
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30346
+#EXTINF:-1,CA-W NETWORK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30344
+#EXTINF:-1,CA-WFN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30343
+#EXTINF:-1,CA-WGN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30342
+#EXTINF:-1,CA-Wild TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30341
+#EXTINF:-1,CA-WSBK
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30340
+#EXTINF:-1,CA-YES TV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30339
+#EXTINF:-1,CA-YTV
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30337
+#EXTINF:-1,CA-YTV West
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/30336
+#EXTINF:-1,CA-CBC CALGARY
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43893
+#EXTINF:-1,CA-CBC CHARLOTTETOWN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43892
+#EXTINF:-1,CA-CBC EDMONTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43891
+#EXTINF:-1,CA-CBC FREDERICTON
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43890
+#EXTINF:-1,CA-CBC HALIFAX
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43889
+#EXTINF:-1,CA-CBC NATIONAL
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43888
+#EXTINF:-1,CA-CBC REGINA
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43887
+#EXTINF:-1,CA-CBC ST.JOHN
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43886
+#EXTINF:-1,CA-CBC VANCOVER
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43885
+#EXTINF:-1,CA-CBC WINDSOR
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43884
+#EXTINF:-1,CA-CBC WINNIPEG
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43883
+#EXTINF:-1,CA-CBC YELLOWKNIFE
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43882
+#EXTINF:-1,CA-GLOBAL TORONTO HD
+http://tptv.cz:80/12x0128TH3/tqeqEOXG5v/43894
