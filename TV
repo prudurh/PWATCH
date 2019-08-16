@@ -1,1 +1,11 @@
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTM3U
+ 
+ 
+#EXTINF:0 group-title="PELICULAS",TELERED CR
+http://k4.usastreams.com/Telesistemas/Telesistemas/chunklist_w1991417611.m3u8
+#EXTINF:-1 group-title="PELICULAS", FM HOT CL
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
+#EXTINF:-1 group-title="PELICULAS",PARAMOUNT ES
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1 group-title="PELICULAS", PARAMOUNT IT
+https://1.ip2stream.icu/live/paramount_channel_hd/chunks.m3u8
