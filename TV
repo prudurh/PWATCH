@@ -1,2 +1,212 @@
+#EXTM3U
+
 #EXTINF:-1, AMERICA TV
 https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
+#EXTINF:-1, IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,VISION TV
+https://v8.ciclano.io:1443/visionmusica/_definst_/visionmusica/chunklist_w881602092.m3u8
+#EXTINF:-1,MX: FOX PREMIUM COMEDY
+http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=161.0.157.5/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/4
+#EXTINF:-1,GOL PERU
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/152
+#EXTINF:-1,MX: CANAL CLARO
+http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1,MX: SPACE
+http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1,MX: PORTAL FOXMIX
+http://tvpremiumhd.club/lista-gratuita/213012/on/live.php?id=tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1,MUSICA: Portal FoxMix HD
+http://tvpremiumhd.club/lista-gratuita/213012/on/iptv.php?id=149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist
+#EXTINF:-1,MX: AZTECA MAS (1+)
+http://tvpremiumhd.club/lista-gratuita/213012/on/lives.php?id=aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-b.m3u8
+#EXTINF:-1,TELE RED
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:-1,EXTREMA
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1,REAL MADRID CANAL
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,RETRO
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,CARACOL HD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/53
+#EXTINF:-1,COSMOS
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/171
+#EXTINF:-1,UNIVISION TELENOVELAS
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/54
+#EXTINF:-1,ULTRA CLASICO
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/122
+#EXTINF:-1,ULTRA CINE
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/123
+#EXTINF:-1,PASIONES
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/55
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/63
+#EXTINF:-1,HBO FAMILY
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/65
+#EXTINF:-1,H&H DISCOVERI
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/87
+#EXTINF:-1,MOVISTAR ACCION
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/61
+#EXTINF:-1,MOVISTAR SERIES
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/60
+#EXTINF:-1,DISTRITO COMEDIA
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/75
+#EXTINF:-1,CRIMEN INVESTIGACION
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/50
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/83
+#EXTINF:-1,NICKELODEON
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/31
+#EXTINF:-1,NICK 2
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/30
+#EXTINF:-1,CARTOON NETWORK
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/34
+#EXTINF:-1,ESPN 2 HD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/34
+#EXTINF:-1,ESPN 3 HD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/18
+#EXTINF:-1,FOX PREMIUM
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/149
+#EXTINF:-1, hbo2 dual (eng esp) www.m3ugratis.com
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1,Gol TV FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/176
+#EXTINF:-1,Directv Sport HD * – Ecuador
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/5
+#EXTINF:-1,ESPN 2 HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/19
+#EXTINF:-1,ESPN 3 HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/18
+#EXTINF:-1,ESPN e HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/17
+#EXTINF:-1,Espn es * – USA
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/2
+#EXTINF:-1,ESPN HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/16
+#EXTINF:-1,FOX es * – USA
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/1
+#EXTINF:-1,Fox Sport HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/15
+#EXTINF:-1,Fox Sports 2 HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/14
+#EXTINF:-1,Fox Sports 3 HD* – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/13
+#EXTINF:-1,NAT GEO KIDS – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/33
+#EXTINF:-1,NBA TV * (24/7 Coverage)
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/11
+#EXTINF:-1,NICK Jr HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/32
+#EXTINF:-1,UFC Network – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/12
+#EXTINF:-1,Win Sport SD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/8
+#EXTINF:-1,Caracol HD 1 * – Colombia
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/53
+#EXTINF:-1,Caracol Internacional – Colombia
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/52
+#EXTINF:-1,Las Estrellas* – Mexico
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/57
+#EXTINF:-1,Telemundo * – Entretenimiento
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/45
+#EXTINF:-1,Univision – Entretenimiento
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/41
+#EXTINF:-1,Univison Telenovelas – Mexico
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/54
+#EXTINF:-1,A&E* HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/79
+#EXTINF:-1,AMC HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/78
+#EXTINF:-1,AXN HD * – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/77
+#EXTINF:-1,Cinemax HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/76
+#EXTINF:-1,Distrito Comedia – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/75
+#EXTINF:-1,Film & Arts – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/73
+#EXTINF:-1,Fox Action * – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/70
+#EXTINF:-1,Fox Premium Movies HD * – Peliculas
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/67
+#EXTINF:-1,Fox Series HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/72
+#EXTINF:-1,HBO 2 HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/66
+#EXTINF:-1,HBO Family* – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/65
+#EXTINF:-1,HBO HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/64
+#EXTINF:-1,Movistar Accion FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/61
+#EXTINF:-1,Movistar Series FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/60
+#EXTINF:-1,Panico HD* – Mexico
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/80
+#EXTINF:-1,Paramount Channel HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/63
+#EXTINF:-1,Pelicula – De Pelicula
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/62
+#EXTINF:-1,TNT Series – Entretenimiento
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/69
+#EXTINF:-1,Animal Planet * FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/84
+#EXTINF:-1,Discovery cilization – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/88
+#EXTINF:-1,Discovery Home & Health HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/87
+#EXTINF:-1,Nat Geo Wild FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/82
+#EXTINF:-1,National Geographic HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/83
+#EXTINF:-1,Azteca uno * – Mexico
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/103
+#EXTINF:-1, la * FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/97
+#EXTINF:-1,ESPN 2 SUR FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/96
+#EXTINF:-1,FM HOT – FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/102
+#EXTINF:-1,Fox sports 1 sur es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/91
+#EXTINF:-1,Golf Channel *FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/95
+#EXTINF:-1, de la Justicia Ilimitada * 24/7
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/90
+#EXTINF:-1,MLB (24/7 Coverage) | HD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/98
+#EXTINF:-1,MTV HD – Latinoamerica
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/105
+#EXTINF:-1,Pelicula – Showtime
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/101
+#EXTINF:-1,Starz Cinema * FHD
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/99
+#EXTINF:-1,Terror HD 24/7 Canales
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/89
+#EXTINF:-1,Bandamax* – Musicales
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/126
+#EXTINF:-1,Barca Tv * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/121
+#EXTINF:-1,Concert Channel* – Musicales
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/124
+#EXTINF:-1,Fight Box Network/Ufc Tv * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/118
+#EXTINF:-1,MacGyver 24/7
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/115
+#EXTINF:-1,Movistar Formula 1 * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/119
+#EXTINF:-1,Ultra Cine * – Ultra Tv
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/123
+#EXTINF:-1,Ultra Clasico * – Ultra Tv
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/122
+#EXTINF:-1,DirecTV Sports * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/155
+#EXTINF:-1,DirecTV Sports 2 * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/156
+#EXTINF:-1,DirecTV Sports Plus * – es
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/157
+#EXTINF:-1,EXTREMADURA TV
+http://zulytv.xyz:25461/m02LOXAUqn/zbnTHHg1kX/161
